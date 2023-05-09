@@ -101,5 +101,5 @@ DOWNLOADER_MIDDLEWARES = {
     "scrapy_zyte_api.ScrapyZyteAPIDownloaderMiddleware": 1000,
 }
 REQUEST_FINGERPRINTER_CLASS = "scrapy_zyte_api.ScrapyZyteAPIRequestFingerprinter"
-ZYTE_API_KEY = "eae9cee32d5d4a98a5aefd2067981118"
+ZYTE_API_KEY = ""
 ZYTE_API_TRANSPARENT_MODE = True
